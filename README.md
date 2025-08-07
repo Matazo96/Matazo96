@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi👋 I'm Muhideen Ibrahim Mohammed.
 
-<!--
-**Matazo96/Matazo96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###✨About Me
+ 🛡️Cybersecurity Specialist | SOC Lab Builder | OSINT Explorer
+- ✍️Hands-on experience in SOC tools: Wazuh, pfSense, Kali Linux, Ubuntu, Windows
+- 💻 I simulate attacks, trace privilege escalation and map alerts to MITRE ATT&CK techniques 
+- 📖🔏Lifelong learner passionate about designing and validating furewall rules to block attacker IPs and confirm 
+defense effectiveness.
+## 💼 My Work
+- [LinkedIn Profile] (www.linkedin.com/in/muhideen-ibrahim-865541218)
+- 🔖 [Resume] (#)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️Skills
+- **Technical Expertise**: Web & Application Security, Penetration Testing, Log Analysis
+   Risk Assessments, Network Security, Endpoint Security
+- **Tools**: Nmap, Metasploit, Wireshark, Google cloud, Wazuh, PFSense
+
+--- 
+
+### 📈Github Stats 
+! [GitHub Stats] (https://github-readme-stats.vercel.app/api?username=Matazo96&show_icons=true&theme=radical)
+
+---
+
+## 😎Fun fact
+I'm building a production-grade SOC lab that not only detects threats but tells the full story behind them.
+
