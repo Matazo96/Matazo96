@@ -8,7 +8,7 @@
 defense effectiveness.
 ## 💼 My Work
 - [LinkedIn Profile] (www.linkedin.com/in/muhideen-ibrahim-865541218)
-- 🔖 [Resume] (#)
+- 🔖 [Resume] (#) (https://github.com/Matazo96/Matazo96/blob/main/MIM%20Cybersecurity%20CV.docx.pdf)
 
 ---
 
